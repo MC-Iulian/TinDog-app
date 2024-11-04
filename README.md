@@ -1,2 +1,2 @@
 # TinDog Project
-![TinDog Project](./tindog.png)
+![TinDog Project](./tindog.PNG)
